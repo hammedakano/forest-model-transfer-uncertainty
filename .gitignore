@@ -1,0 +1,7 @@
+data/
+outputs/
+examples/example_tree_data.csv
+*.RData
+*.Rhistory
+.Rproj.user/
+.DS_Store
